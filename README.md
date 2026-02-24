@@ -6,7 +6,6 @@ issue detection and free-form natural language queries across 10+
 programming languages.
 
 ---
----
 
 
 ## ✨ Features
