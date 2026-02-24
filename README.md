@@ -8,15 +8,7 @@ programming languages.
 ---
 ---
 
-## 📸 Screenshots
 
-### Main Interface
-![AI Code Reviewer — Main UI]("C:\Users\SamarthShetty\OneDrive - Commtel Networks L.L.C\Pictures\Screenshots\Screenshot 2026-02-23 120351.png")
-
-### Review Focus & File Upload
-![AI Code Reviewer — Upload Panel]("C:\Users\SamarthShetty\OneDrive - Commtel Networks L.L.C\Pictures\Screenshots\Screenshot 2026-02-24 171122.png")
-
----
 ## ✨ Features
 
 - **Multi-language support** — Rust, Python, JavaScript, TypeScript,
