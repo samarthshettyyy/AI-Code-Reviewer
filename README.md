@@ -28,12 +28,12 @@ programming languages.
   on your own vLLM server
 
 ---
-## Screeshots
+## Screenshots
 ![App Screenshot](image1.png)
 ![App Screenshot](image2.png)
 ![App Screenshot](image3.png)
 
-
+---
 ### Backend modules (`src/`)
 
 | File | Responsibility |
