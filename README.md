@@ -28,6 +28,11 @@ programming languages.
   on your own vLLM server
 
 ---
+## Screeshots
+![App Screenshot](image1.png)
+![App Screenshot](image2.png)
+![App Screenshot](image3.png)
+
 
 ### Backend modules (`src/`)
 
