@@ -29,10 +29,10 @@ programming languages.
 
 ---
 ## Screenshots
-![App Screenshot](image 1.png)
-![App Screenshot](image 2.png)
-![App Screenshot](image 3.png)
-![App Screenshot](image 3.png)
+![App Screenshot](image1.png)
+![App Screenshot](image2.png)
+![App Screenshot](image3.png)
+![App Screenshot](image4.png)
 
 ---
 ### Backend modules (`src/`)
